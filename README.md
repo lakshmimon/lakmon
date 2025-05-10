@@ -6,4 +6,5 @@
 ###     contains a flowchart in which we determine whether the value inputted is greater or less than 100. 
 ## 3. Filename: Python.png is a program in Python 
 ###     developed to determine whether a number is greater or less than 100.
-
+## Network Design
+This network diagram uses a star topology because it's simple, easy to expand, and all devices connect to a central router. The diagram includes two computers, a router, and a printer.
