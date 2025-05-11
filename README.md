@@ -13,3 +13,5 @@
 
 ## 6. MyHTML Webpage
 ### This is a personalized webpage created for an assignment for my IT-1025 Class. I created this webpage sample using W3Schools.
+## 7. PythonOOP
+### I created a Flower class and initialized 3 objects of that class named flower1, flower2, and flower3. Then I called the methods bloom and grow on all three.
